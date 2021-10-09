@@ -1,5 +1,7 @@
 # MD-CardioNet-A-Multi-Dimensional-Deep-Neural-Network-for-Cardiovascular-Disease-Diagnosis-from-Electrocardiogram
 This is the official implementation of the paper "MD-CardioNet: A Multi-Dimensional Deep Neural Network for Cardiovascular Disease Diagnosis from Electrocardiogram". Necessary codes and datasets are provoded.
+![1](https://user-images.githubusercontent.com/44304799/136667731-af70c9fe-fba3-428b-9001-9dc14fe853f7.PNG)
+
 
 Download the Dataset used for training and testing from the following link:
 https://drive.google.com/drive/folders/1PAAna696ia29RdcxxULYY2mYpDXhRLXN?usp=sharing
